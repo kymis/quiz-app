@@ -2,6 +2,8 @@
 
 ## Name of the application: **Dad Quiz App**
 
+### Try it out [here](https://kymis.github.io/flutter-quiz-app)
+
 ### Description
 
 Simple device-agnostic quiz application. The app uses DAD API for retrieving quiz topics, retrieving random questions from a topic chosen by user, and for posting answers to questions to verify correctness of the answers.
