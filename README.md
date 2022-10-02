@@ -1,16 +1,18 @@
-# test_app
+# _Project ID: cc463fcd-9db4-40a4-a3df-e392797bddfb_
 
-A new Flutter project.
+## Name of the application: **Dad Quiz App**
 
-## Getting Started
+### Description
 
-This project is a starting point for a Flutter application.
+Simple device-agnostic quiz application. The app uses DAD API for retrieving quiz topics, retrieving random questions from a topic chosen by user, and for posting answers to questions to verify correctness of the answers.
 
-A few resources to get you started if this is your first Flutter project:
+### Key challenges during the development
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dealing with different response types from the api, e.g., how to handle List<dynamic>
+- Typing in general
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Key learning moments
+
+- How to pass a callback function to a widget
+- How to deal with responsive layouts
+- How to create different instances of classes with different number of params
